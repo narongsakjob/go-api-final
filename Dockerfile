@@ -1,6 +1,6 @@
 FROM golang:1.10-alpine3.7
 
-ARG pkg=github.com/realroy/spa-lab-final
+ARG pkg=github.com/narongsakjob/go-api-final
 
 RUN apk add --no-cache ca-certificates
 
